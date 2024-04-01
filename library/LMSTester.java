@@ -1,3 +1,8 @@
+package library;
+
+import library.Book;
+import library.LMS;
+
 public class LMSTester {
     public static void main(String[] args) {
         LMS testLibrary = new LMS();
