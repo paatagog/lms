@@ -3,7 +3,7 @@ import java.util.List;
 
 public class LMS {
 
-    List<Book> storage = new ArrayList<Book>();
+    List<Book> storage = new ArrayList<>();
 
     public void addBook(Book book) {
         storage.add(book);
